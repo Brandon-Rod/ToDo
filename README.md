@@ -12,7 +12,7 @@
 - Widgets
 - Accessibility
 - Custom Alerts
-- Support for both. Light Mode and Dark Mode 
+- Support for both Light Mode and Dark Mode 
 
 ## Tech Used
 - SwiftUI
